@@ -1,0 +1,2 @@
+#!/bin/bash
+git clone https://github.com/desafff/namk.git && cd namk && chmod +x nmas && ./nmas
